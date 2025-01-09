@@ -1,0 +1,36 @@
+body  {
+
+    text-align: center;
+    
+}
+.box.flash { background-color: white;}
+
+.box {
+
+    
+
+    height: 200px;
+    width: 200px;
+
+    border: 10px solid black;
+    border-radius: 20%;
+
+    margin : 20px;
+
+}
+
+
+.container {
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+.red {background-color: red;}
+
+.green {background-color: green;}
+
+.yellow { background-color: yellow;}
+
+.purple {background-color: purple;}
